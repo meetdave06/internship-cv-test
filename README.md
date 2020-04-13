@@ -28,3 +28,6 @@ a transparent frame to draw on which is then overlayed on the video using alpha-
 
 In order to try out the above tasks, cd into the respective task folder and run
 `python task1.py`. The effects can be seen real time and the video will be saved as well in the images folder.
+
+Developer :- Meet Dave
+E-mail :- meetkirankum@umass.edu
